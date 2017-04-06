@@ -1,0 +1,13 @@
+ID,LEVEL,LANG,TWEETS,PHD,SALARY,HIRE
+1,Senior,Java,No,No,145,FALSE
+2,Senior,Java,No,Yes,135,FALSE
+3,Mid,Python,No,No,110,TRUE
+4,Junior,Python,No,No,85,TRUE
+5,Junior,R,Yes,No,95,TRUE
+6,Junior,R,Yes,Yes,65,FALSE
+7,Mid,R,Yes,Yes,95,TRUE
+8,Senior,Python,No,No,120,FALSE
+9,Senior,R,Yes,No,135,TRUE
+10,Junior,Python,Yes,No,70,TRUE
+11,Senior,Python,Yes,Yes,115,TRUE
+12,Mid,Python,No,Yes,105,TRUE
